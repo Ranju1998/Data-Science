@@ -1,2 +1,20 @@
+sql is not a case sensetiv language so can be written in upper or lower case unlike py
 sql queries ends with semicolon;
 ctrl+enter executes the cell
+first we use show database to show the databases wer connected to ,
+then we type use with the database name we want to use for ex; use world;
+after that we can check the tables inside the database by typing show tables;
+if we do anything on mysql command line client it reflects on mysql workbench 
+we can create database by typing create database with the database name we want to create
+The name shouldnt have any spaces between it
+we can select the databse on my sql and use ctrl enter to run it directly
+
+We can also use my sql on cmd/command prompt 
+to use mysql on command prompt locate mysql from c then locate bin copy it then 
+search for edit enviourment variable on searchbar click on it then click on advanced then click on enviourment variable
+then select path by double clicking it then create new path of mysql by pasting your copied sql path 
+now go to cmd then type mysql space hyfen hyfen version
+now that we can see the sql version root the username and password of your mysql by typing mysqul space hyfenu root hyfenp
+then enter your password to login to your mysql account!
+mysql --version
+mysql -u root -p
