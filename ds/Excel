@@ -1,0 +1,8 @@
+hold Shift to select multiple cells all at once!
+excel equation starts with an equaltwo sign =
+in excel we can select 2 lines 1 after one then using the + - * sign in the middle we can do any sort of simple equation
+ex = b3* c3 will multiply row b3 by row c3 then you can drag and drop to do the ones that are under it!
+or you can see the plus sign at the bottom right corner when you select the result you can double click on the plus itll autofill all the respective bottom rows
+if you douible click on an answer itll highlight the cells from which that answer came from!
+we can select sum funtion or any other functions in excell just by selecting tab after writing the name of the function 
+sumproduct function can select multiple rows with commas ex b3:b9,c3;c9 itll give all the sums of it
